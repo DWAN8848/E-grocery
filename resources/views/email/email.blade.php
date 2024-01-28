@@ -1,0 +1,1 @@
+<p style="color:black;">Congralution <b>{{$name}}</b> Message From <b>Grocey Store:</b>{{$mailmessage}}</p>
